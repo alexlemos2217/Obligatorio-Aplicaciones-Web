@@ -1,0 +1,9 @@
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Logica\bin\Debug\Logica.dll
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Logica\bin\Debug\Logica.pdb
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Logica\obj\Debug\Logica.dll
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Logica\obj\Debug\Logica.pdb
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Logica\bin\Debug\Persistencia.dll
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Logica\bin\Debug\Persistencia.pdb

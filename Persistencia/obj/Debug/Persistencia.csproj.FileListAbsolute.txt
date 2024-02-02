@@ -1,0 +1,7 @@
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\59899\Desktop\Obligatorio Web\GestionViajes\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
